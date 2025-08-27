@@ -8,7 +8,7 @@ const Projects = () => {
       id: 1,
       title: 'SmartDine',
       description: 'Built a full-stack reservation platform with React frontend and Express.js backend, supporting user authentication, bookings, and admin management.',
-      image: '/images/air_dine.png',
+      image: '/images/aaiya.jgp',
       techStack: ["MERN Stack"],
       githubUrl: 'https://github.com/KhushalPrajapati/SmartDine',
     },
@@ -254,3 +254,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
