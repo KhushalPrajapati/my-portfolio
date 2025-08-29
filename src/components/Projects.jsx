@@ -8,7 +8,7 @@ const Projects = () => {
       id: 1,
       title: 'SmartDine',
       description: 'Built a full-stack reservation platform with React frontend and Express.js backend, supporting user authentication, bookings, and admin management.',
-      image: '/images/aaiya.jgp',
+      image: '/images/sd.jgp',
       techStack: ["MERN Stack"],
       githubUrl: 'https://github.com/KhushalPrajapati/SmartDine',
     },
@@ -16,7 +16,7 @@ const Projects = () => {
       id: 2,
       title: 'smart attendence',
       description: 'Developed a full-stack AI-powered e-learning platform using Django and React integrating secure JWT authentication.',
-      image: '/images/edudesk.png',
+      image: '/images/sa.jpg',
       techStack: ['React.js', 'Django', 'MongoDB'],
       githubUrl: 'https://github.com/KhushalPrajapati/smartattendance-'
     },
@@ -254,4 +254,5 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
