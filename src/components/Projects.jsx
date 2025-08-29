@@ -8,7 +8,7 @@ const Projects = () => {
       id: 1,
       title: 'SmartDine',
       description: 'Built a full-stack reservation platform with React frontend and Express.js backend, supporting user authentication, bookings, and admin management.',
-      image: '/images/sd.jgp',
+      image: '/images/sd1.jgp',
       techStack: ["MERN Stack"],
       githubUrl: 'https://github.com/KhushalPrajapati/SmartDine',
     },
@@ -24,7 +24,7 @@ const Projects = () => {
       id: 3,
       title: 'Mini-analysis',
       description: 'A machine learning project that analyzes user data to provide insights and predictions, utilizing Python libraries such as Pandas, Scikit-learn, and Matplotlib.',
-      image: '/images/connectify.png',
+      image: '/images/sd.jpg',
       techStack: ['Python', 'ML'],
       githubUrl: 'https://github.com/KhushalPrajapati/mini-analysis'
     },
@@ -254,5 +254,6 @@ const Projects = () => {
 };
 
 export default Projects;
+
 
 
