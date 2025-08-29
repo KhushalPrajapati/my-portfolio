@@ -5,7 +5,7 @@ import { Github, Linkedin, Instagram, Mail, Heart, ArrowUp } from 'lucide-react'
 const Footer = () => {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/KhushalPrajapati', label: 'GitHub' },
-    { icon: Linkedin, href: 'www.linkedin.com/in/prajapati-khushal-7318b6298', label: 'LinkedIn' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/prajapati-khushal-7318b6298/', label: 'LinkedIn' },
     { icon: Instagram, href: 'https://www.instagram.com/__khushal__1_?igsh=MTM2cWl2cGFhYnF4MA==', label: 'Instagram' },
     { icon: Mail, href: 'mailto:khushal45y@gmail.com', label: 'Email' }
   ];
@@ -171,4 +171,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
